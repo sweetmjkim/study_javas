@@ -9,3 +9,9 @@
 ```
 #### samples
 - [src/Sameple.java](./src/Sameple.java)
+
+
+# 이 파일을 킷트허브에서 넣기
+# 파워쉘 열기
+# PS C:\Users\서울디지털인재개발원> cd C:\Develops
+# PS C:\Develops> git clone -b java_mysql https://github.com/gocolab/co_templates.git co_java_mysql 엔터
