@@ -11,7 +11,7 @@ public class Additions {
         int intSecond = Scanner.nextInt();
         int intAnswer = intFirst + intSecond;
         System.out.print("Answer is : " + intAnswer);
-
+        
         Scanner.close();
     }
 }
