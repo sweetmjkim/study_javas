@@ -11,7 +11,7 @@ for 반복문 (for statement)
 refer : https://blog.naver.com/dev_kwak/223049366604
 */
 
-public class Loops_Fors {
+public class LoopsFors {
     public static void main(String[] args){
         /*
             for 동작 위한 조건 : 반복 횟수, 종료 조건, 시작점
